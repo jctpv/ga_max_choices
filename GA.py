@@ -1,3 +1,4 @@
+#clonado do alex
 import random
 from deap import creator, base, tools, algorithms
 from test_data import *
